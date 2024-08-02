@@ -26,12 +26,12 @@ You have also bought the folliwng IP network address for the serial communicatio
 
 ## Constraints
 You, being very cautious, decide to simulate the topology on Cisco Packet Tracer in order to optimally design the network considering the number of devices (switches, routers etc.) used to maximize the profit margins of your company. However, you must simulate the topology strictly following rules and regulations described below:
+•	Use Straight Through wires, Cross Over cables or Serial DCE wires where necessary and applicable.
+•	Use Generic Router and Generic PCs for your design.
+•	Use Generic Switches such that you attach only 3 of the 4 available Ethernet Interfaces for a single switch, however, you can attach as many switches considering optimal design.
+•	You have to assign IPs to the PCs using Static IP allocation
+•	Although you have to use GUI of the router to configure its interfaces but you must use CLI of the router to configure the RIPv2 Protocol for Classless Subnet Addressing.
 
-* Use Straight Through wires, Cross Over cables or Serial DCE wires where necessary and applicable.
-* Use Generic Router and Generic PCs for your design.
-* Use Generic Switches such that you attach only 3 of the 4 available Ethernet Interfaces for a single switch, however, you can attach as many switches considering optimal design.
-* You have to assign IPs to the PCs using Static IP allocation
-* Although you have to use GUI of the router to configure its interfaces but you must use CLI of the router to configure the RIPv2 Protocol for Classless Subnet Addressing.
 
 ## How to run
 Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) and then simply open the [network.pkt](../master/network.pkt). The whole network is in working condition. You can check it by sending a packet from one system to another or through using the PING command in the Cisco Packet Tracer.
