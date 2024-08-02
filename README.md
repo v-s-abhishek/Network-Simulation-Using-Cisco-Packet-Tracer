@@ -2,7 +2,7 @@
 
 ## Network Design
 <p align="middle">
-  <img src="../master/screenshot.png"/>
+  <img src="..screenshot.png"/>
 </p>
 
 ## Problem Statement
